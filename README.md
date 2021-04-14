@@ -1,1 +1,1 @@
-A simple data handler for Nate's Secret Mod
+A simple data storer repo for Nate's Secret Mod
